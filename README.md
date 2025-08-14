@@ -19,7 +19,7 @@ Este repositorio contiene los códigos y materiales desarrollados en el marco de
 
 
 
-# 🎖️ Tabla de Contenido 🎖️
+# 🧾 Tabla de Contenido 📃
 <span style="font-size: 24px;"></span>
 _____________________________
 <p align="center">
@@ -29,14 +29,14 @@ _____________________________
 
 
 
-1. [Construcción Gráficos](#construccion-graficos)
-2. [Envolvente Convexa](#envolvente-convexa)
-3. [Triangulaciones](#triangulaciones-algoritmos)
-4. [Teoría de Ehrhart en SageMath](#teoria-ehrhart-sagemath)
-5. [Topología Algebraica (Cohomología de Rham)](#topologia-algebraica)
-6. [Geometría Diferencial](#geometria-diferencial)
-7. [Funciones Zeta](#funciones-zeta)
-8. [Grafos y Politopos](#Grafos-Politopos)
+1. [](#construccion-graficos)
+2. [](#envolvente-convexa)
+3. [](#triangulaciones-algoritmos)
+4. [](#teoria-ehrhart-sagemath)
+5. [](#topologia-algebraica)
+6. [](#geometria-diferencial)
+7. [](#funciones-zeta)
+8. [](#Grafos-Politopos)
 
 
 
