@@ -40,39 +40,34 @@ _____________________________
 
 
 
-# 🥷🚨 REQUERIMIENTOS DE EJECUCIÓN 🚨🥷
+# 🥷🚨 Requerimientos de ejecución 🚨🥷
 <span style="font-size: 24px;"></span>
 ____________________________________
 
 <p align="center">
-  <img src="https://images.zapnito.com/cdn-cgi/image/metadata=copyright,format=auto,quality=95,fit=scale-down/https://images.zapnito.com/users/717496/posters/e2e24f08-ec2c-4e55-ae2b-f2e86d55051e_large.png" alt="Nueva imagen relacionada" width="200">
+  <img src="https://i.gifer.com/embedded/download/4j3b.gif" alt="Animación ilustrativa de politopo reflexivo" width="500">
 </p>
 
-
 <div align="justify">
-Todos los códigos de este repositorio han sido desarrollados en Google Colab para facilitar su ejecución y visualización.  
-Cada archivo está vinculado a este repositorio de GitHub, por lo que se puede abrir y correr los notebooks directamente en Colab sin necesidad de instalaciones locales.
+Todos los códigos de este repositorio han sido desarrollados en <strong>SageMath</strong> utilizando la plataforma <strong>CoCalc</strong>, con el objetivo de aprovechar sus capacidades avanzadas para cálculos simbólicos, combinatorios y geométricos.  
+SageMath no está disponible de forma nativa en Google Colab, por lo que los notebooks aquí incluidos deben ejecutarse en la nube mediante <strong>CoCalc</strong> o en un entorno local con <strong>Jupyter Notebook</strong> que tenga SageMath correctamente instalado.
 </div>
 
+<h3>Para ejecutarlos:</h3>
+
+<ul>
+  <li>Abra los notebooks directamente en <strong>CoCalc</strong> desde el enlace provisto o suba los archivos a su cuenta.</li>
+  <li>Alternativamente, descargue los notebooks y ejecútelos en su equipo local en un entorno <strong>Jupyter Notebook</strong> con SageMath instalado.</li>
+</ul>
+
+<blockquote>
+  <strong>Importante:</strong> Para instalar SageMath en su máquina local, siga las instrucciones oficiales disponibles en <a href="https://doc.sagemath.org/">la documentación de SageMath</a>.  
+  Plataformas como CoCalc ofrecen soporte directo y preconfigurado, evitando la necesidad de instalación manual.
+</blockquote>
+
+<blockquote>
+  <strong>Nota:</strong> Debido a la naturaleza de los cálculos y bibliotecas empleadas, la ejecución en entornos sin SageMath no es posible.  
+  Se recomienda utilizar CoCalc para obtener una experiencia fluida y compatible.
+</blockquote>
 
 
-**Para ejecutarlos:**
-
-- Haga clic en el enlace de cada notebook o súbalo a su Google Drive.
-- Asegúrese de tener una cuenta de Google activa para usar Google Colab.
-
-> **Importante:** Los notebooks de la carpeta Teoría de Ehrhart en SageMath requieren el uso de SageMath.  
-> Google Colab no incluye SageMath por defecto, por lo que debe instalarse manualmente.
-
-> **Instalación en Colab:**  
-> Para ejecutar SageMath en Google Colab, puede incluir la siguiente celda al comienzo del notebook.  
-> Tenga en cuenta que esta instalación puede tardar varios minutos y no está oficialmente soportada por Google Colab.
-
-```jsx
-!sudo apt update -y
-!sudo apt install -y sagemath
-```
-
-> Alternativamente, pueden ejecutarse en un entorno local que tenga SageMath instalado, o utilizar plataformas como CoCalc que ofrecen soporte directo para Sage.
-
-> **Nota:** Si prefiere, también puede descargar los notebooks y ejecutarlos en su entorno local compatible con Jupyter.
