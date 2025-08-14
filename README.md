@@ -43,8 +43,9 @@ _____________________________
 # 🥷🚨 Requerimientos de ejecución 🚨🥷
 <span style="font-size: 24px;"></span>
 ____________________________________
+
 <p align="center">
-  <img src="https://i.gifer.com/embedded/download/4j3b.gif" alt="Animación complementaria de politopo reflexivo" width="500">
+  <img src="https://media.tenor.com/cIU63CGDhngAAAAM/platonic-solid.gif" alt="Animación complementaria de politopo reflexivo" width="500">
 </p>
 
 
