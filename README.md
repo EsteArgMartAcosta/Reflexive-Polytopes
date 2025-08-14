@@ -45,7 +45,7 @@ _____________________________
 ____________________________________
 
 <p align="center">
-  <img src="https://i.gifer.com/embedded/download/EdpM.gif" alt="Animación complementaria de politopo reflexivo" width="350" height="350">
+  <img src="https://i.imgur.com/Aa7EvL7.gif" alt="Animación complementaria de politopo reflexivo" width="350" height="350">
 </p>
 
 
