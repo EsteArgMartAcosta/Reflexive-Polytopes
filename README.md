@@ -12,10 +12,10 @@ Este repositorio contiene los códigos y materiales desarrollados en el marco de
 </ul>
 </div>
 
-
 <p align="center">
-  <img src="https://nedbatchelder.com/pix/jenn-polytope.jpg" alt="Visualización de un poliedro relacionado con la teoría de Ehrhart" width="300">
+  <img src="https://i.pinimg.com/originals/90/c2/90/90c29060e3b60f94c38416d60dd8b0a4.gif" alt="Animación de politopo reflexivo" width="500">
 </p>
+
 
 
 
@@ -23,8 +23,9 @@ Este repositorio contiene los códigos y materiales desarrollados en el marco de
 <span style="font-size: 24px;"></span>
 _____________________________
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Zome-like.png/480px-Zome-like.png" alt="Imagen Zome-like"width="280">
+  <img src="https://64.media.tumblr.com/49a525474d7c15c05bebe01394f0a0be/tumblr_nm1zl5l9xn1qz4vjko1_540.gif" alt="Animación complementaria de politopo reflexivo" width="500">
 </p>
+
 
 
 
