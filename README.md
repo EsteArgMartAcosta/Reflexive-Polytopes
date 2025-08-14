@@ -43,10 +43,11 @@ _____________________________
 # 🥷🚨 Requerimientos de ejecución 🚨🥷
 <span style="font-size: 24px;"></span>
 ____________________________________
-
 <p align="center">
-  <img src="assets/4j3b.gif" alt="Animación ilustrativa de politopo reflexivo" width="500">
+  <img src="https://i.gifer.com/embedded/download/4j3b.gif" alt="Animación complementaria de politopo reflexivo" width="500">
 </p>
+
+
 
 
 <div align="justify">
