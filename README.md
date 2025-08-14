@@ -13,7 +13,7 @@ Este repositorio contiene los códigos y materiales desarrollados en el marco de
 </div>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/c2/90/90c29060e3b60f94c38416d60dd8b0a4.gif" alt="Animación de politopo reflexivo" width="500" height="500">
+  <img src="https://i.pinimg.com/originals/90/c2/90/90c29060e3b60f94c38416d60dd8b0a4.gif" alt="Animación de politopo reflexivo" width="300" height="300">
 </p>
 
 
