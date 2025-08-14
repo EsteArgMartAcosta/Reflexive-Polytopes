@@ -77,4 +77,6 @@ SageMath no está disponible de forma nativa en Google Colab, por lo que los not
   Se recomienda utilizar CoCalc para obtener una experiencia fluida y compatible.
 </blockquote>
 
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/79/0f/bf/790fbfc98a6a0fe85f31ae64b882bdac.gif" alt="Animación complementaria de politopo reflexivo" width="350" height="350">
+</p>
