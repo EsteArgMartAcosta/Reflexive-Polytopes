@@ -2,6 +2,10 @@
 <span style="font-size: 24px;"></span>
 _____________________________
 
+<p align="center">
+  <img src="https://i.gifer.com/1POT.gif" alt="Animación complementaria de politopo reflexivo" width="350" height="350">
+</p>
+
 <div align="justify">
 Este repositorio contiene los códigos y materiales desarrollados en el marco de la investigación sobre:  
 <ul>
