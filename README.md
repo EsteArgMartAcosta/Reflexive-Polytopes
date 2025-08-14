@@ -1,6 +1,6 @@
 # 🌓Politopos Reflexivos🌖
 <span style="font-size: 24px;"></span>
-_____________________________
+
 
 <p align="center">
   <img src="https://i.gifer.com/1POT.gif" alt="Animación complementaria de politopo reflexivo" width="350" height="350">
@@ -25,7 +25,7 @@ Este repositorio contiene los códigos y materiales desarrollados en el marco de
 
 # 🧾 Tabla de Contenido 📃
 <span style="font-size: 24px;"></span>
-_____________________________
+
 <p align="center">
   <img src="https://64.media.tumblr.com/49a525474d7c15c05bebe01394f0a0be/tumblr_nm1zl5l9xn1qz4vjko1_540.gif" alt="Animación complementaria de politopo reflexivo" width="350" height="350">
 </p>
@@ -46,7 +46,7 @@ _____________________________
 
 # 🥷🚨 Requerimientos de ejecución 🚨🥷
 <span style="font-size: 24px;"></span>
-____________________________________
+
 
 <p align="center">
   <img src="https://i.imgur.com/Aa7EvL7.gif" alt="Animación complementaria de politopo reflexivo" width="350" height="350">
