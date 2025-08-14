@@ -45,8 +45,9 @@ _____________________________
 ____________________________________
 
 <p align="center">
-  <img src="https://i.gifer.com/embedded/download/4j3b.gif" alt="Animación ilustrativa de politopo reflexivo" width="500">
+  <img src="assets/4j3b.gif" alt="Animación ilustrativa de politopo reflexivo" width="500">
 </p>
+
 
 <div align="justify">
 Todos los códigos de este repositorio han sido desarrollados en <strong>SageMath</strong> utilizando la plataforma <strong>CoCalc</strong>, con el objetivo de aprovechar sus capacidades avanzadas para cálculos simbólicos, combinatorios y geométricos.  
